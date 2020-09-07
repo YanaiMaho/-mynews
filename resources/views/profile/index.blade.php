@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="container">
-        <h1>myProfile</h1>
+        <h1>＊myProfile＊</h1>
         <hr color="#c0c0c0">
         @if (!is_null($headline))
               <div class="post">
